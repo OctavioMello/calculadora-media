@@ -9,7 +9,9 @@ Projeto simples feito em JavaScript para praticar lógica de programação.
 - Armazena as notas em uma lista
 - Soma todos os valores
 - Calcula a média das notas
-- Exibe o resultado ao usuário
+- Identifica o maior número
+- Identifica o menor número
+- Exibe ao usuário: a média dos números, o maior número, o menor número e quantidade de números informados
 
 ## Tecnologias utilizadas
 
